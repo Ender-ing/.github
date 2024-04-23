@@ -18,3 +18,13 @@ The following repositories relate to the used web clients:
 The following repositories relate to the documentation side of things:
 
 - [/Docs](https://github.com/Ender-ing/Docs): Includes all documentation in markdown format
+
+### Private Repositories
+
+Here is a list of currently existing private repositories:
+
+- [/web-host-root](https://github.com/Ender-ing/web-host-root): used to host a copy of all static files hosted on the `ender.ing` domain
+
+### .GitHub Repository
+
+The [`.GitHub` repository](https://github.com/Ender-ing/.github) is currently used only to add this page to the main organisation page!
