@@ -1,12 +1,20 @@
 ## Hi there 👋
 
-<!--
+Welcome to [ender.ing](https://ender.ing/)!
 
-**Here are some ideas to get you started:**
+## repositories
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+There are different kinds of repositories used by this organisation, and more than one repository can be used just for the same purpose.
+
+### Web-Clients
+
+The following repositories relate to the used web clients:
+
+- [/resources](https://github.com/Ender-ing/resources): includes static files (hosted on `resources.ender.ing`)
+- [/render-activity](https://github.com/Ender-ing/render-activity): includes files and build commands used to generate global web client resources (output hosted on `resources.ender.ing`)
+
+### Documentation
+
+The following repositories relate to the documentation side of things:
+
+- [/Docs](https://github.com/Ender-ing/Docs): Includes all documentation in markdown format
