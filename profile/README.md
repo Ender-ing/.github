@@ -75,7 +75,8 @@ The following repositories relate to the documentation side of things:
 
 Here is a list of currently existing private repositories:
 
-- [/web-host-root](https://github.com/Ender-ing/web-host-root): used to host a copy of all static files hosted on the `ender.ing` domain
+- [/host](https://github.com/Ender-ing/host): used to host a copy of all static files hosted on the `ender.ing` domain
+- [/web-host-root](https://github.com/Ender-ing/web-host-root): used to host a copy of all untracked generative files used for the `ender.ing` domain
 
 ### .GitHub Repository
 
