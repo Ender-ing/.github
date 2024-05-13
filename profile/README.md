@@ -2,6 +2,59 @@
 
 Welcome to [ender.ing](https://ender.ing/)!
 
+## Website (planned)
+
+(ordered by priority)
+
+### www. / *root*
+
+- Intro
+- Services/Projects
+- Legal
+
+### docs.
+
+(Docs for all services)
+
+### account.
+
+- Account management
+
+### authority.
+
+\-
+
+### links.
+
+\-
+
+### chat.
+
+- Automated Support Chat
+- Chats with other users
+- Chats with staff and admins
+  (use a hybrid)
+
+### mail.
+
+\-
+
+### sites.
+
+\-
+
+### tweaker.
+
+\-
+
+### crew.
+
+\-
+
+### omni.
+
+\-
+
 ## repositories
 
 There are different kinds of repositories used by this organisation, and more than one repository can be used just for the same purpose.
