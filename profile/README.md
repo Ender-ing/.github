@@ -30,10 +30,9 @@ Welcome to [ender.ing](https://ender.ing/)!
 
 ### chat.ender.ing
 
-- Automated Support Chat
+- Automated Support Chat (NLP & Gemini hybrid)
 - Chats with other users
 - Chats with staff and admins
-  (use a hybrid)
 
 ### mail.ender.ing
 
