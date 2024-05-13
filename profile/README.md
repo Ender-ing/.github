@@ -6,52 +6,52 @@ Welcome to [ender.ing](https://ender.ing/)!
 
 (ordered by priority)
 
-### www./*root*
+### (www.)ender.ing
 
 - Intro
 - Services/Projects
 - Legal
 
-### docs.
+### docs.ender.ing
 
 (Docs for all services)
 
-### account.
+### account.ender.ing
 
 - Account management
 
-### authority.
+### authority.ender.ing
 
 \-
 
-### links.
+### links.ender.ing
 
 \-
 
-### chat.
+### chat.ender.ing
 
 - Automated Support Chat
 - Chats with other users
 - Chats with staff and admins
   (use a hybrid)
 
-### mail.
+### mail.ender.ing
 
 \-
 
-### sites.
+### sites.ender.ing
 
 \-
 
-### tweaker.
+### tweaker.ender.ing
 
 \-
 
-### crew.
+### crew.ender.ing
 
 \-
 
-### omni.
+### omni.ender.ing
 
 \-
 
