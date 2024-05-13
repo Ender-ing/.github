@@ -6,7 +6,7 @@ Welcome to [ender.ing](https://ender.ing/)!
 
 (ordered by priority)
 
-### www. / *root*
+### www./*root*
 
 - Intro
 - Services/Projects
