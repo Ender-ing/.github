@@ -81,3 +81,7 @@ Here is a list of currently existing private repositories:
 ### .GitHub Repository
 
 The [`.GitHub` repository](https://github.com/Ender-ing/.github) is currently used only to add this page to the main organisation page!
+
+## Terminal Access
+
+You may use [this page](https://terminal.ender.ing/@secret/) to access the server's terminal. (need to bypass auth before use)
