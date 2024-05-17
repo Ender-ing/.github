@@ -58,12 +58,13 @@ Welcome to [ender.ing](https://ender.ing/)!
 
 There are different kinds of repositories used by this organisation, and more than one repository can be used just for the same purpose.
 
-### Web-Clients
+### Public Repositories
 
-The following repositories relate to the used web clients:
+The following repositories relate to client-side code, and public backend code:
 
 - [/resources](https://github.com/Ender-ing/resources): includes static files (hosted on `resources.ender.ing`)
 - [/render-activity](https://github.com/Ender-ing/render-activity): includes files and build commands used to generate global web client resources (output hosted on `resources.ender.ing`)
+- [/terminal](https://github.com/Ender-ing/terminal): includes server and fontend files (output hosted on `terminal.ender.ing`)
 
 ### Documentation
 
